@@ -21,6 +21,6 @@
       <li>To a <a href="hello.jsp">JSP page</a>.
       <li>To a <a href="hello">servlet</a>.
     </ul>
-
+zmina2
   </body>
 </html>
